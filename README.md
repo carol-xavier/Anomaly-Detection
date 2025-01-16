@@ -1,7 +1,7 @@
 # <p align = "center"> Pynomaly Alert </p>
 
 <p align="center">
-   <img width="300em" height="300em" src="https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f5c3-fe0f.svg](https://www.shutterstock.com/image-vector/diagnose-anomalies-icon-techniques-data-600nw-2500296421.jpg"/>
+   <img width="300em" height="300em" src="https://www.svgrepo.com/show/486526/anomaly-found.svg"/>
 </p>
 
 <p align = "center">
